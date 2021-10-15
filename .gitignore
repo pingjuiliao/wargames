@@ -1,0 +1,6 @@
+**/peda*
+**/core
+**/tmp
+**/shellcode.o
+**/shellcode.bin
+**/shellcode.exe
